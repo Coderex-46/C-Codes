@@ -1,0 +1,21 @@
+{
+    "editor.quickSuggestions": {
+        "other": "off",
+        "comments": "off",
+        "strings": "off"
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.tabCompletion": "off",
+    "editor.wordBasedSuggestions": "off",
+    "editor.snippetSuggestions": "none",
+    "editor.parameterHints.enabled": false,
+    "editor.hover.enabled": false,
+    "editor.inlineSuggest.enabled": false,
+    "editor.suggest.preview": false,
+    "C_Cpp.autocomplete": "disabled",
+    "C_Cpp.suggestSnippets": false,
+    "C_Cpp.inlineSuggest.enabled": false,
+    "github.copilot.enable": { "*": false }
+}
